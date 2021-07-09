@@ -1,4 +1,4 @@
-### Hi there 👋
+### Всем привет 👋
 
 <!--
 **budelphine/budelphine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 Учусь в Школе21, школе программирования от Сбербанка и Ecole42.
+- 🔭 Работаю над школьным проектом - ft_irc
+- 🌱 Изучаю - Java
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=budelphine&layout=compact)
+
+[![flavon's 42 stats](https://badge42.herokuapp.com/api/stats/budelphi?privacyEmail=true&darkmode=false)](https://github.com/JaeSeoKim/badge42)
+
