@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Изучаю - Java
+- Изучаю Java
 - Учусь в Школе21, школе программирования от Сбербанка и Ecole42.
 - Работаю над школьным проектом - ft_irc
    
